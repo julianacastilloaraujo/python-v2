@@ -30,6 +30,10 @@ Explorarás la Biblioteca Estándar de Python, descubriendo módulos como `os`, 
 ### Módulo 8: Programación Asíncrona en Python
 Este módulo te introduce al asincronismo en Python, una técnica avanzada para manejar operaciones concurrentes. Aprenderás a usar el módulo `asyncio` y a implementar patrones de programación asíncrona que mejoran la eficiencia y rendimiento de tus aplicaciones.
 
+## Proyecto Final: Batalla Naval en Python
+
+El proyecto final de este curso consiste en crear un juego de **Batalla Naval** en Python. En este juego, dos jugadores colocan estratégicamente sus barcos en un tablero y se turnan para atacar las posiciones del oponente. El objetivo es hundir todos los barcos del adversario antes de que él hunda los tuyos. Este proyecto te permitirá aplicar los conceptos y habilidades adquiridos a lo largo del curso, incluyendo el uso de clases, estructuras de control, y manipulación de datos. ¡Es una excelente oportunidad para poner a prueba tu conocimiento y creatividad en Python!
+
 ---
 
 ## Manual de Instalación de Python

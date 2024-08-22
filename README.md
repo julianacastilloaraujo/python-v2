@@ -68,7 +68,3 @@ En la carpeta `Ejercicios`, encontrarás una serie de prácticas diseñadas para
 ## Derechos Reservados
 
 Este contenido es propiedad de Platzi. Todos los derechos reservados. El uso de este material está sujeto a los términos y condiciones de Platzi.
-
----
-
-Este README está diseñado para proporcionarte una visión general clara del curso, sus contenidos y cómo comenzar. ¡Prepárate para convertirte en un experto en Python!
